@@ -1,0 +1,59 @@
+.menu{
+    width: 2050px;
+    height: 595.88px;
+    background-color: #59007B;
+}
+.logo{
+    width: 240px;
+    height: 100px;
+    
+}
+.text{
+    display: flex;
+    flex-direction: row  ;
+    gap: 50px;
+}
+.top{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    gap:30px;
+    display: flex;
+   
+}
+.menu-home{
+    background-color: white;
+    width: 124.62px;
+    height: 25.99px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius:7px;
+}
+.menu-text{
+    color: white;
+}
+.long-text{
+    font-size: 42.15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:white;
+    margin-top: 150px;
+}
+.button{
+    background-color: #EB7D4B;
+    width: 304.27px;
+    height: 73.68px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    border-radius: 7px;
+}
+.button1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
